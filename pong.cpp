@@ -122,7 +122,7 @@ void drawText(float x, float y, std::string text) {
 }
 
 /*
-Conversion d'un entier en chaine de caract�res
+Conversion d'un entier en chaine de caractères
 */
 string int2str(int x) {
 	stringstream ss;
