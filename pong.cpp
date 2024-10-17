@@ -65,7 +65,7 @@ int ball_speed = 4;
 
 int main(int argc, char** argv) {
 
-	//SoundEngine->play2D("Armin van Buuren - Ping Pong.mp3", true);
+	SoundEngine->play2D("Armin van Buuren - Ping Pong.mp3", true);
 
 	glutInit(&argc, argv);
 	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB | GLUT_DEPTH);
